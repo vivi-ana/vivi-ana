@@ -1,7 +1,7 @@
 <h1 align="center">Hi🤗, I'm Vivi</h1>
 <h3 align="center">A technology enthusiast</h3>
 
-- 🎓 I'm in the final stretch of my Bachelor's degree in ICT, and I'm very excited to apply all my knowledge and skills in a work environment within the IT world.
+- 🎓 I am a graduate with a Bachelor's degree in ICT, and I'm very excited to apply all my knowledge and skills in a work environment within the IT world.
 
 - 🌱 I’m currently learning **C# and Kotlin**
 
